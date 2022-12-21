@@ -1,0 +1,40 @@
+header{
+    z-index: 9999;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 10vh;
+    background-color: brown;
+}
+
+footer
+{
+    z-index: 9999;
+    text-align: center;
+    line-height: 10vh;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 10vh;
+    background-color: brown;
+}
+
+#contentArea
+{
+    text-align: center;
+    top: 10vh;
+    position: fixed;
+    bottom: 10vh;
+    left: 0;
+    right: 0;
+    overflow-y: auto;
+    background-color: brown;
+}
+
+h1
+{
+    text-align: center;
+    font-size: 5vh;
+    line-height: 10vh;
+}
